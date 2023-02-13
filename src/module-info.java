@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Frederik
+ *
+ */
+module lntMidProj {
+}
